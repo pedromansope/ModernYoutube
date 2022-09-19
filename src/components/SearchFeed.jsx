@@ -25,4 +25,4 @@ const SearchFeed = () => {
   );
 };
 
-export default Feed
+export default SearchFeed
